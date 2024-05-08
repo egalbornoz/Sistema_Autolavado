@@ -1,0 +1,24 @@
+
+USE AUTOLAVADO;
+Create TABLE Usuarios(
+    IdUsuario INT PRIMARY KEY IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+    Nombre VARCHAR(80) NULL,
+    Email VARCHAR(50) NULL,
+    Clave VARCHAR(80) NULL,
+	IdRol INT NOT NULL,
+	IdCargo INT NOT NULL,
+	Fecha_Creacion DATETIME NULL,
+	Fecha_Actualizacion DATETIME NULL,
+  	Estado BIT  NULL
+);
+
+ALTER TABLE Usuarios 
+ADD  CONSTRAINT Usuario_Roles
+FOREIGN KEY(IdRol)
+REFERENCES Roles(IdRol);
+
+ALTER TABLE Usuarios 
+ADD  CONSTRAINT Usuario_Cargos
+FOREIGN KEY(IdCargo)
+REFERENCES Cargos(IdCargo);
+

@@ -1,0 +1,7 @@
+
+USE AUTOLAVADO;
+Create TABLE Cargos(
+    IdCargo INT PRIMARY KEY IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+    Descripcion VARCHAR(150) NULL,
+  	Estado BIT  NULL
+	);

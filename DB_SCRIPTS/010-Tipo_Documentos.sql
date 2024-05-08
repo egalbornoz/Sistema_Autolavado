@@ -1,0 +1,7 @@
+
+USE AUTOLAVADO;
+Create TABLE Tipo_Documentos(
+    IdTipo_Documento INT PRIMARY KEY IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+    Descripcion VARCHAR(150) NULL,
+  	Estado BIT  NULL
+	);

@@ -1,0 +1,8 @@
+USE AUTOLAVADO;
+
+Create TABLE Bancos(
+  IdBanco  INT PRIMARY KEY IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+  Codigo_Banco INT NULL,
+  Descripcion VARCHAR(50) NULL,
+  Estado BIT NULL
+);
