@@ -20,11 +20,6 @@
    Agregar
 
 builder.Services.AddMvc();
- 
-
-
-
-
      app.UseAuthentication();
      app.UseAuthorization();
 

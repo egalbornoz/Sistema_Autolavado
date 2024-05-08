@@ -4564,11 +4564,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\sistemas\\Sistema_Autolavado\\Autolavado\\Autolavado.csproj",
+      "projectUniqueName": "D:\\sistemas\\Sistema_Chile\\Autolavado\\Autolavado.csproj",
       "projectName": "Autolavado",
-      "projectPath": "D:\\sistemas\\Sistema_Autolavado\\Autolavado\\Autolavado.csproj",
+      "projectPath": "D:\\sistemas\\Sistema_Chile\\Autolavado\\Autolavado.csproj",
       "packagesPath": "C:\\Users\\edwin\\.nuget\\packages\\",
-      "outputPath": "D:\\sistemas\\Sistema_Autolavado\\Autolavado\\obj\\",
+      "outputPath": "D:\\sistemas\\Sistema_Chile\\Autolavado\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

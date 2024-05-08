@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ybPTXeP/UrGtP6wtJ85YnNQYBhKO59/ZzAxn/m8yjRj2NIHpNpKXxBXvB8Kbxcc731TKhcGOEHj1pwDuDPhKpg==",
+  "dgSpecHash": "aq4o3rLKutLbUc8g5ciojwCm5Vw8Ahukb60qiMml0snM0Zrxxh2i43IY2Ky+bFUdaxWkpLC1WfGRhgWbAG7v5g==",
   "success": true,
-  "projectFilePath": "D:\\sistemas\\Sistema_Autolavado\\autolavado\\Autolavado.csproj",
+  "projectFilePath": "D:\\sistemas\\Sistema_Chile\\Autolavado\\Autolavado.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edwin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\edwin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

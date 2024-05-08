@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Autolavado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d0a8f08a2c0046dde660689050d7c51de52639b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Autolavado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Autolavado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
