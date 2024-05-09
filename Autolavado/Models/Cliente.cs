@@ -18,4 +18,6 @@ public class Cliente
     public DateTime? Fecha_Creacion { get; set; }
     public DateTime? Fecha_Modificacion { get; set; }
     public bool Estado { get; set; }
+    //Se agrega un campo id para relacionar el usuario con  la compra
+    public Guid? UsuarioId { get; set; }
 }
